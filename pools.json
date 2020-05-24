@@ -133,10 +133,24 @@
     ]
 },
 {
-    "poolName": "Skypool",
+    "poolName": "Skypool Asia",
     "url": "http://safe.skypool.co/",
-    "safe.skypool.co": [
-      ""
+    "searchStrings": [
+      "safe.skypool.co asia"
     ]
-  }
+},
+{
+    "poolName": "Skypool Europe",
+    "url": "http://safe.skypool.co/",
+    "searchStrings": [
+      "safe.skypool.co europe"
+    ]
+},
+{
+    "poolName": "Skypool North America",
+    "url": "http://safe.skypool.co/",
+    "searchStrings": [
+      "safe.skypool.co north america"
+    ]
+}
 ]
